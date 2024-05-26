@@ -1,1 +1,0 @@
-https://techoverflow.net/2019/04/01/how-to-fix-npm-err-missing-script-start/
