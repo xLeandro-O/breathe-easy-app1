@@ -2,8 +2,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     const response = await fetch('/api/data');
     const data = await response.json();
 
-    const labels = data.map(item => new Date(item.ObservationTimeUTC).toLocaleString());
-    const values = data.map(item => item.Value);
+    const labels = data.map(item => new Date(item.observationtimeutc).toLocaleString());
+    const values = data.map(item => item.value);
 
     const ctx = document.getElementById('myChart').getContext('2d');
     const myChart = new Chart(ctx, {
