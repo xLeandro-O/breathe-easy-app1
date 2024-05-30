@@ -1,3 +1,4 @@
+//Add a comment here to explain the overall purpose of this code
 require('dotenv').config();
 const express = require('express');
 const { Pool } = require('pg');
