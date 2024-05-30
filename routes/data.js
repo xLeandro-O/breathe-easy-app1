@@ -3,6 +3,7 @@ const { Pool } = require('pg');
 
 const router = express.Router();
 
+//comment on what this code (lines 7-13) does
 const pool = new Pool({
     user: process.env.DB_USER,
     host: process.env.DB_HOST,
