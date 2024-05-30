@@ -16,3 +16,9 @@ a.)Right now, this is a very plain looking app. Style it up!
 b.)This is where you get to be creative, but don't make it too complicated. Go back and look at your other projects and use that for inspiration.
 5. Connect your Render.com postgresql to your web app
 a.)when you get to this part, please let me know and I'll work with you to get it set up...
+
+Grading Rubric: 
+1.0 - only do one of the above successfully
+2.0 - do two of the above successfully
+3.0 - do three of the above successfully 
+4.0 - do three including connecting postgresql or 4 or more successfully
